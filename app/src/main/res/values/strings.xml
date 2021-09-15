@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseChat</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id" translatable="false">>366129231720637</string> <string name="fb_login_protocol_scheme" translatable="false">>fb366129231720637</string>
+
+</resources>
